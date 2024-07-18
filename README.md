@@ -56,7 +56,9 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 5. Add the hotel name and the country as additional information in the hover message for each city on the map
 
 ## Resources
-1. citipy Python library
-2. OpenWeatherMapAPI
+1. citipy Python library https://pypi.org/project/citipy/
+2. OpenWeatherMap API https://openweathermap.org/api
+3. Geoapify API https://www.geoapify.com/
+4. geoViews Python library https://geoviews.org/
 
 
